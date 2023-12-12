@@ -1,0 +1,1 @@
+## For energy consumption forecasting using deep learning, you can employ recurrent neural networks (RNNs) or long short-term memory networks (LSTMs) due to their ability to capture sequential patterns in time series data. Below is a Python code snippet utilizing TensorFlow and Keras for forecasting energy consumption based on the provided dataset:
